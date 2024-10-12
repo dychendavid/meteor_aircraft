@@ -1,4 +1,4 @@
-A basic prototype, Initiated at 2012, and no more maintain, build it up in 1 week.
+A basic prototype, Initiated at 2012, and no more maintain, no code quality, build it up in 1 week.
 
 The original joyful is making something move.
 
@@ -26,4 +26,5 @@ Screenshot
 - Up, Down, Left, Right to move aircraft
 - X for Normal bullet
 - Z for Laser Beam, CD for 1s
+- Shift for Turbo
 - Space for restart game.
